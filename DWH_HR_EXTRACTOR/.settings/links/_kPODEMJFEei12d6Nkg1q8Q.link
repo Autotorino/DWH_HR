@@ -1,0 +1,295 @@
+{
+  "itemId" : "_kPODEMJFEei12d6Nkg1q8Q",
+  "contextList" : [ {
+    "contextName" : "prod",
+    "repoId" : "_McuX8KloEemvdbMxCJroiw",
+    "parameterList" : [ {
+      "id" : "_SavM0TNmEe2OV-A0dj71Tg",
+      "name" : "RETENTION_BACKUP_FILE"
+    }, {
+      "id" : "_SavM0jNmEe2OV-A0dj71Tg",
+      "name" : "ORACLE_CLOUD_Url"
+    }, {
+      "id" : "_SavM0zNmEe2OV-A0dj71Tg",
+      "name" : "ORACLE_CLOUD_Password"
+    }, {
+      "id" : "_SavM1DNmEe2OV-A0dj71Tg",
+      "name" : "ORACLE_CLOUD_Username"
+    }, {
+      "id" : "_SavM1TNmEe2OV-A0dj71Tg",
+      "name" : "TALEND_PATH_FILE_CSV"
+    }, {
+      "id" : "_SavM1jNmEe2OV-A0dj71Tg",
+      "name" : "DWH_AT_MAIL_NOTIFY"
+    }, {
+      "id" : "_SavM1zNmEe2OV-A0dj71Tg",
+      "name" : "DWH_AT_MAIL_SMTP_HOST"
+    }, {
+      "id" : "_SavM2DNmEe2OV-A0dj71Tg",
+      "name" : "DWH_AT_MAIL_SMTP_PORT"
+    }, {
+      "id" : "_SavM2TNmEe2OV-A0dj71Tg",
+      "name" : "DWH_AT_MAIL_SMTP_USER"
+    }, {
+      "id" : "_SavM2jNmEe2OV-A0dj71Tg",
+      "name" : "DWH_AT_MAIL_SMTP_PWD"
+    }, {
+      "id" : "_SavM2zNmEe2OV-A0dj71Tg",
+      "name" : "DWH_AT_MAIL_SMTP_DEST"
+    }, {
+      "id" : "_SavM3DNmEe2OV-A0dj71Tg",
+      "name" : "TALEND_PATH_FILE_INPUT"
+    }, {
+      "id" : "_SavM3TNmEe2OV-A0dj71Tg",
+      "name" : "RESERVATION_PROCESS_ID"
+    }, {
+      "id" : "_SavM3jNmEe2OV-A0dj71Tg",
+      "name" : "TALEND_PATH_LOG"
+    }, {
+      "id" : "_SavM3zNmEe2OV-A0dj71Tg",
+      "name" : "SFTP_HOST"
+    }, {
+      "id" : "_SavM4DNmEe2OV-A0dj71Tg",
+      "name" : "SFTP_PORT"
+    }, {
+      "id" : "_SavM4TNmEe2OV-A0dj71Tg",
+      "name" : "SFTP_USER"
+    }, {
+      "id" : "_SavM4jNmEe2OV-A0dj71Tg",
+      "name" : "SFTP_PASSWORD"
+    }, {
+      "id" : "_SavM4zNmEe2OV-A0dj71Tg",
+      "name" : "SFTP_PATH"
+    }, {
+      "id" : "_SavM5DNmEe2OV-A0dj71Tg",
+      "name" : "SFTP_FILE_NAME_PROVVIGIONI"
+    }, {
+      "id" : "_SavM5TNmEe2OV-A0dj71Tg",
+      "name" : "HR_DATABASE_HOST"
+    }, {
+      "id" : "_SavM5jNmEe2OV-A0dj71Tg",
+      "name" : "HR_DATABASE_PORT"
+    }, {
+      "id" : "_SavM5zNmEe2OV-A0dj71Tg",
+      "name" : "HR_DATABASE_USER"
+    }, {
+      "id" : "_SavM6DNmEe2OV-A0dj71Tg",
+      "name" : "HR_DATABASE_PWD"
+    }, {
+      "id" : "_SavM6TNmEe2OV-A0dj71Tg",
+      "name" : "HR_DATABASE_SCHEMA"
+    }, {
+      "id" : "_SavM6jNmEe2OV-A0dj71Tg",
+      "name" : "HR_DATABASE_DATABASE"
+    }, {
+      "id" : "_SavM6zNmEe2OV-A0dj71Tg",
+      "name" : "HR_EVOLVE_FILE_NAME_PREFIX"
+    }, {
+      "id" : "_SavM7DNmEe2OV-A0dj71Tg",
+      "name" : "HR_EVOLVE_FILE_PWD"
+    }, {
+      "id" : "_SavM7TNmEe2OV-A0dj71Tg",
+      "name" : "HR_EVOLVE_FILE_PATH"
+    }, {
+      "id" : "_SavM7jNmEe2OV-A0dj71Tg",
+      "name" : "FILE_NAME_INFO_USER"
+    }, {
+      "id" : "_SavM7zNmEe2OV-A0dj71Tg",
+      "name" : "SFTP_REMOVE_FILE_PROVVIGIONI"
+    } ]
+  }, {
+    "contextName" : "dev",
+    "repoId" : "_McuX8KloEemvdbMxCJroiw",
+    "parameterList" : [ {
+      "id" : "_CH9s71ZvEeyam4LwPh9ieA",
+      "name" : "RETENTION_BACKUP_FILE"
+    }, {
+      "id" : "_CH9s8FZvEeyam4LwPh9ieA",
+      "name" : "ORACLE_CLOUD_Url"
+    }, {
+      "id" : "_CH9s8VZvEeyam4LwPh9ieA",
+      "name" : "ORACLE_CLOUD_Password"
+    }, {
+      "id" : "_CH9s8lZvEeyam4LwPh9ieA",
+      "name" : "ORACLE_CLOUD_Username"
+    }, {
+      "id" : "_CH9s81ZvEeyam4LwPh9ieA",
+      "name" : "TALEND_PATH_FILE_CSV"
+    }, {
+      "id" : "_CH9s9FZvEeyam4LwPh9ieA",
+      "name" : "DWH_AT_MAIL_NOTIFY"
+    }, {
+      "id" : "_CH9s9VZvEeyam4LwPh9ieA",
+      "name" : "DWH_AT_MAIL_SMTP_HOST"
+    }, {
+      "id" : "_CH9s9lZvEeyam4LwPh9ieA",
+      "name" : "DWH_AT_MAIL_SMTP_PORT"
+    }, {
+      "id" : "_CH9s91ZvEeyam4LwPh9ieA",
+      "name" : "DWH_AT_MAIL_SMTP_USER"
+    }, {
+      "id" : "_CH9s-FZvEeyam4LwPh9ieA",
+      "name" : "DWH_AT_MAIL_SMTP_PWD"
+    }, {
+      "id" : "_CH9s-VZvEeyam4LwPh9ieA",
+      "name" : "DWH_AT_MAIL_SMTP_DEST"
+    }, {
+      "id" : "_CH9s-lZvEeyam4LwPh9ieA",
+      "name" : "TALEND_PATH_FILE_INPUT"
+    }, {
+      "id" : "_CH9s-1ZvEeyam4LwPh9ieA",
+      "name" : "RESERVATION_PROCESS_ID"
+    }, {
+      "id" : "_CH9s_FZvEeyam4LwPh9ieA",
+      "name" : "TALEND_PATH_LOG"
+    }, {
+      "id" : "_CH9s_VZvEeyam4LwPh9ieA",
+      "name" : "SFTP_HOST"
+    }, {
+      "id" : "_CH9s_lZvEeyam4LwPh9ieA",
+      "name" : "SFTP_PORT"
+    }, {
+      "id" : "_CH9s_1ZvEeyam4LwPh9ieA",
+      "name" : "SFTP_USER"
+    }, {
+      "id" : "_CH9tAFZvEeyam4LwPh9ieA",
+      "name" : "SFTP_PASSWORD"
+    }, {
+      "id" : "_CH9tAVZvEeyam4LwPh9ieA",
+      "name" : "SFTP_PATH"
+    }, {
+      "id" : "_CH9tAlZvEeyam4LwPh9ieA",
+      "name" : "SFTP_FILE_NAME_PROVVIGIONI"
+    }, {
+      "id" : "_CH9tA1ZvEeyam4LwPh9ieA",
+      "name" : "HR_DATABASE_HOST"
+    }, {
+      "id" : "_CH9tBFZvEeyam4LwPh9ieA",
+      "name" : "HR_DATABASE_PORT"
+    }, {
+      "id" : "_CH9tBVZvEeyam4LwPh9ieA",
+      "name" : "HR_DATABASE_USER"
+    }, {
+      "id" : "_CH9tBlZvEeyam4LwPh9ieA",
+      "name" : "HR_DATABASE_PWD"
+    }, {
+      "id" : "_CH9tB1ZvEeyam4LwPh9ieA",
+      "name" : "HR_DATABASE_SCHEMA"
+    }, {
+      "id" : "_CH9tCFZvEeyam4LwPh9ieA",
+      "name" : "HR_DATABASE_DATABASE"
+    }, {
+      "id" : "_CH9tCVZvEeyam4LwPh9ieA",
+      "name" : "HR_EVOLVE_FILE_NAME_PREFIX"
+    }, {
+      "id" : "_CH9tClZvEeyam4LwPh9ieA",
+      "name" : "HR_EVOLVE_FILE_PWD"
+    }, {
+      "id" : "_CH9tC1ZvEeyam4LwPh9ieA",
+      "name" : "HR_EVOLVE_FILE_PATH"
+    }, {
+      "id" : "_qEtgcVZ0Eeyam4LwPh9ieA",
+      "name" : "FILE_NAME_INFO_USER"
+    }, {
+      "id" : "_R0UF4DNmEe2OV-A0dj71Tg",
+      "name" : "SFTP_REMOVE_FILE_PROVVIGIONI"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_McuX8KloEemvdbMxCJroiw",
+    "parameterList" : [ {
+      "id" : "_SavMsTNmEe2OV-A0dj71Tg",
+      "name" : "RETENTION_BACKUP_FILE"
+    }, {
+      "id" : "_SavMsjNmEe2OV-A0dj71Tg",
+      "name" : "ORACLE_CLOUD_Url"
+    }, {
+      "id" : "_SavMszNmEe2OV-A0dj71Tg",
+      "name" : "ORACLE_CLOUD_Password"
+    }, {
+      "id" : "_SavMtDNmEe2OV-A0dj71Tg",
+      "name" : "ORACLE_CLOUD_Username"
+    }, {
+      "id" : "_SavMtTNmEe2OV-A0dj71Tg",
+      "name" : "TALEND_PATH_FILE_CSV"
+    }, {
+      "id" : "_SavMtjNmEe2OV-A0dj71Tg",
+      "name" : "DWH_AT_MAIL_NOTIFY"
+    }, {
+      "id" : "_SavMtzNmEe2OV-A0dj71Tg",
+      "name" : "DWH_AT_MAIL_SMTP_HOST"
+    }, {
+      "id" : "_SavMuDNmEe2OV-A0dj71Tg",
+      "name" : "DWH_AT_MAIL_SMTP_PORT"
+    }, {
+      "id" : "_SavMuTNmEe2OV-A0dj71Tg",
+      "name" : "DWH_AT_MAIL_SMTP_USER"
+    }, {
+      "id" : "_SavMujNmEe2OV-A0dj71Tg",
+      "name" : "DWH_AT_MAIL_SMTP_PWD"
+    }, {
+      "id" : "_SavMuzNmEe2OV-A0dj71Tg",
+      "name" : "DWH_AT_MAIL_SMTP_DEST"
+    }, {
+      "id" : "_SavMvDNmEe2OV-A0dj71Tg",
+      "name" : "TALEND_PATH_FILE_INPUT"
+    }, {
+      "id" : "_SavMvTNmEe2OV-A0dj71Tg",
+      "name" : "RESERVATION_PROCESS_ID"
+    }, {
+      "id" : "_SavMvjNmEe2OV-A0dj71Tg",
+      "name" : "TALEND_PATH_LOG"
+    }, {
+      "id" : "_SavMvzNmEe2OV-A0dj71Tg",
+      "name" : "SFTP_HOST"
+    }, {
+      "id" : "_SavMwDNmEe2OV-A0dj71Tg",
+      "name" : "SFTP_PORT"
+    }, {
+      "id" : "_SavMwTNmEe2OV-A0dj71Tg",
+      "name" : "SFTP_USER"
+    }, {
+      "id" : "_SavMwjNmEe2OV-A0dj71Tg",
+      "name" : "SFTP_PASSWORD"
+    }, {
+      "id" : "_SavMwzNmEe2OV-A0dj71Tg",
+      "name" : "SFTP_PATH"
+    }, {
+      "id" : "_SavMxDNmEe2OV-A0dj71Tg",
+      "name" : "SFTP_FILE_NAME_PROVVIGIONI"
+    }, {
+      "id" : "_SavMxTNmEe2OV-A0dj71Tg",
+      "name" : "HR_DATABASE_HOST"
+    }, {
+      "id" : "_SavMxjNmEe2OV-A0dj71Tg",
+      "name" : "HR_DATABASE_PORT"
+    }, {
+      "id" : "_SavMxzNmEe2OV-A0dj71Tg",
+      "name" : "HR_DATABASE_USER"
+    }, {
+      "id" : "_SavMyDNmEe2OV-A0dj71Tg",
+      "name" : "HR_DATABASE_PWD"
+    }, {
+      "id" : "_SavMyTNmEe2OV-A0dj71Tg",
+      "name" : "HR_DATABASE_SCHEMA"
+    }, {
+      "id" : "_SavMyjNmEe2OV-A0dj71Tg",
+      "name" : "HR_DATABASE_DATABASE"
+    }, {
+      "id" : "_SavMyzNmEe2OV-A0dj71Tg",
+      "name" : "HR_EVOLVE_FILE_NAME_PREFIX"
+    }, {
+      "id" : "_SavMzDNmEe2OV-A0dj71Tg",
+      "name" : "HR_EVOLVE_FILE_PWD"
+    }, {
+      "id" : "_SavMzTNmEe2OV-A0dj71Tg",
+      "name" : "HR_EVOLVE_FILE_PATH"
+    }, {
+      "id" : "_SavMzjNmEe2OV-A0dj71Tg",
+      "name" : "FILE_NAME_INFO_USER"
+    }, {
+      "id" : "_SavMzzNmEe2OV-A0dj71Tg",
+      "name" : "SFTP_REMOVE_FILE_PROVVIGIONI"
+    } ]
+  } ]
+}

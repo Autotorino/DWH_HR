@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" name="Default" xmi:id="_SavMsDNmEe2OV-A0dj71Tg">
+    <contextParameter comment="" name="RETENTION_BACKUP_FILE" prompt="RETENTION_BACKUP_FILE?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="3" xmi:id="_SavMsTNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="ORACLE_CLOUD_Url" prompt="ORACLE_CLOUD_Url?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="jdbc:oracle:thin:@dwhautosvil_medium?TNS_ADMIN=C:\\Talend\\Talend-ConfConnections\\OracleCloud\\Wallet_autotorinodwh" xmi:id="_SavMsjNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="ORACLE_CLOUD_Password" prompt="ORACLE_CLOUD_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:9tR6iSGFi+zbiQEcV8ASUln3zb2qPrbEOnBGAq1M+iDqvCklAMdGvseB" xmi:id="_SavMszNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="ORACLE_CLOUD_Username" prompt="ORACLE_CLOUD_Username?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="DI_DATA_CONFIG" xmi:id="_SavMtDNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="TALEND_PATH_FILE_CSV" prompt="TALEND_PATH_FILE_CSV?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/Talend/Talend-Output/DataSource/DWH_HR/StorageFisico/" xmi:id="_SavMtTNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="DWH_AT_MAIL_NOTIFY" prompt="DWH_AT_MAIL_NOTIFY?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="true" xmi:id="_SavMtjNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="DWH_AT_MAIL_SMTP_HOST" prompt="DWH_AT_MAIL_SMTP_HOST?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="smtp.autotorino.local" xmi:id="_SavMtzNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="DWH_AT_MAIL_SMTP_PORT" prompt="DWH_AT_MAIL_SMTP_PORT?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="25" xmi:id="_SavMuDNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="DWH_AT_MAIL_SMTP_USER" prompt="DWH_AT_MAIL_SMTP_USER?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_SavMuTNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="DWH_AT_MAIL_SMTP_PWD" prompt="DWH_AT_MAIL_SMTP_PWD?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="" xmi:id="_SavMujNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="DWH_AT_MAIL_SMTP_DEST" prompt="DWH_AT_MAIL_SMTP_DEST?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="giovanni.pilutza@eng.it" xmi:id="_SavMuzNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="TALEND_PATH_FILE_INPUT" prompt="TALEND_PATH_FILE_INPUT?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/Talend/Talend-Input/DWH_HR/" xmi:id="_SavMvDNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="RESERVATION_PROCESS_ID" prompt="RESERVATION_PROCESS_ID?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_SavMvTNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="TALEND_PATH_LOG" prompt="TALEND_PATH_LOG?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/Talend/Talend-Output/Log/DWH_HR" xmi:id="_SavMvjNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="SFTP_HOST" prompt="SFTP_HOST?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="ftps.autotorino.it" xmi:id="_SavMvzNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="SFTP_PORT" prompt="SFTP_PORT?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="22" xmi:id="_SavMwDNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="SFTP_USER" prompt="SFTP_USER?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="engineering" xmi:id="_SavMwTNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="SFTP_PASSWORD" prompt="SFTP_PASSWORD?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:ceTvzEFYPKQUGyVvsN4qNjmmWVdoiLRqcxzPWONpuGKIw7ATD7E=" xmi:id="_SavMwjNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="SFTP_PATH" prompt="SFTP_PATH?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="/engineering/importstatini/" xmi:id="_SavMwzNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="SFTP_FILE_NAME_PROVVIGIONI" prompt="SFTP_FILE_NAME_PROVVIGIONI?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Provvigioni.csv" xmi:id="_SavMxDNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="HR_DATABASE_HOST" prompt="HR_DATABASE_HOST?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="srvpaghe" xmi:id="_SavMxTNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="HR_DATABASE_PORT" prompt="HR_DATABASE_PORT?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="1433" xmi:id="_SavMxjNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="HR_DATABASE_USER" prompt="HR_DATABASE_USER?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="read" xmi:id="_SavMxzNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="HR_DATABASE_PWD" prompt="HR_DATABASE_PWD?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:cuTfpx6Jeynburmxcvsh41X0qSDSQInRzDjvh43dk9DXtNFncEAZHjU=" xmi:id="_SavMyDNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="HR_DATABASE_SCHEMA" prompt="HR_DATABASE_SCHEMA?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="ebc" xmi:id="_SavMyTNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="HR_DATABASE_DATABASE" prompt="HR_DATABASE_DATABASE?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="EBC" xmi:id="_SavMyjNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="HR_EVOLVE_FILE_NAME_PREFIX" prompt="HR_EVOLVE_FILE_NAME_PREFIX?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Evolve_HR_" xmi:id="_SavMyzNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="HR_EVOLVE_FILE_PWD" prompt="HR_EVOLVE_FILE_PWD?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:pt3ERe5Efmu8d4K0rVZWrq01uAQhaIwpFZkTqkJNt8gcy3eFXjA=" xmi:id="_SavMzDNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="HR_EVOLVE_FILE_PATH" prompt="HR_EVOLVE_FILE_PATH?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="\\bi.autotorino.local\qvs\work\Modelli\Personale\Evolve_ExportBEV" xmi:id="_SavMzTNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="FILE_NAME_INFO_USER" prompt="FILE_NAME_INFO_USER?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="info_users.csv" xmi:id="_SavMzjNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="SFTP_REMOVE_FILE_PROVVIGIONI" prompt="SFTP_REMOVE_FILE_PROVVIGIONI?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="false" xmi:id="_SavMzzNmEe2OV-A0dj71Tg"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="prod" xmi:id="_SavM0DNmEe2OV-A0dj71Tg">
+    <contextParameter comment="" name="RETENTION_BACKUP_FILE" prompt="RETENTION_BACKUP_FILE?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="3" xmi:id="_SavM0TNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="ORACLE_CLOUD_Url" prompt="ORACLE_CLOUD_Url?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="jdbc:oracle:thin:@autotorinodwh_medium?TNS_ADMIN=E:\\Talend\\Talend-ConfConnections\\OracleCloud\\Wallet_autotorinodwh" xmi:id="_SavM0jNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="ORACLE_CLOUD_Password" prompt="ORACLE_CLOUD_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:t9fFlnrD6bRWz+gw3qJB0fkWJ3jtYmsbNRyBD++ZZ37qKLrl9644CsE+" xmi:id="_SavM0zNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="ORACLE_CLOUD_Username" prompt="ORACLE_CLOUD_Username?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="DI_DATA_CONFIG" xmi:id="_SavM1DNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="TALEND_PATH_FILE_CSV" prompt="TALEND_PATH_FILE_CSV?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="E:/Talend/Talend-Output/DataSource/DWH_HR/StorageFisico/" xmi:id="_SavM1TNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="DWH_AT_MAIL_NOTIFY" prompt="DWH_AT_MAIL_NOTIFY?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="true" xmi:id="_SavM1jNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="DWH_AT_MAIL_SMTP_HOST" prompt="DWH_AT_MAIL_SMTP_HOST?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="smtp.autotorino.local" xmi:id="_SavM1zNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="DWH_AT_MAIL_SMTP_PORT" prompt="DWH_AT_MAIL_SMTP_PORT?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="25" xmi:id="_SavM2DNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="DWH_AT_MAIL_SMTP_USER" prompt="DWH_AT_MAIL_SMTP_USER?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_SavM2TNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="DWH_AT_MAIL_SMTP_PWD" prompt="DWH_AT_MAIL_SMTP_PWD?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="" xmi:id="_SavM2jNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="DWH_AT_MAIL_SMTP_DEST" prompt="DWH_AT_MAIL_SMTP_DEST?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="dwh_talend@autotorino.it;giovanni.pilutza@eng.it" xmi:id="_SavM2zNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="TALEND_PATH_FILE_INPUT" prompt="TALEND_PATH_FILE_INPUT?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="E:/Talend/Talend-Input/DWH_HR/" xmi:id="_SavM3DNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="RESERVATION_PROCESS_ID" prompt="RESERVATION_PROCESS_ID?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_SavM3TNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="TALEND_PATH_LOG" prompt="TALEND_PATH_LOG?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="E:\\Talend\\RemoteEngine\\TalendJobServersFiles\\repository\\Talend-Output\\Log\\DWH_HR" xmi:id="_SavM3jNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="SFTP_HOST" prompt="SFTP_HOST?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="ftps.autotorino.it" xmi:id="_SavM3zNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="SFTP_PORT" prompt="SFTP_PORT?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="22" xmi:id="_SavM4DNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="SFTP_USER" prompt="SFTP_USER?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="engineering" xmi:id="_SavM4TNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="SFTP_PASSWORD" prompt="SFTP_PASSWORD?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:LUiTuqvNCmM8Nt5AeHNcLZawlBV36F+I/Zv1cxMwP8wJWwJ83Cs=" xmi:id="_SavM4jNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="SFTP_PATH" prompt="SFTP_PATH?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="/engineering/importstatini/" xmi:id="_SavM4zNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="SFTP_FILE_NAME_PROVVIGIONI" prompt="SFTP_FILE_NAME_PROVVIGIONI?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Provvigioni.csv" xmi:id="_SavM5DNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="HR_DATABASE_HOST" prompt="HR_DATABASE_HOST?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="srvpaghe" xmi:id="_SavM5TNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="HR_DATABASE_PORT" prompt="HR_DATABASE_PORT?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="1433" xmi:id="_SavM5jNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="HR_DATABASE_USER" prompt="HR_DATABASE_USER?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="read" xmi:id="_SavM5zNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="HR_DATABASE_PWD" prompt="HR_DATABASE_PWD?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:pEsvS9kzk0uK9Lb2xskpOpfTFFt2M4YTB+ICejvJm32hcQ58KTpEH3A=" xmi:id="_SavM6DNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="HR_DATABASE_SCHEMA" prompt="HR_DATABASE_SCHEMA?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="ebc" xmi:id="_SavM6TNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="HR_DATABASE_DATABASE" prompt="HR_DATABASE_DATABASE?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="EBC" xmi:id="_SavM6jNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="HR_EVOLVE_FILE_NAME_PREFIX" prompt="HR_EVOLVE_FILE_NAME_PREFIX?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Evolve_HR_" xmi:id="_SavM6zNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="HR_EVOLVE_FILE_PWD" prompt="HR_EVOLVE_FILE_PWD?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:+KSPRws3QPTpoq2XSQXsiP7l/Hkc+S1mWXzgcpGg0R+dByjokkI=" xmi:id="_SavM7DNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="HR_EVOLVE_FILE_PATH" prompt="HR_EVOLVE_FILE_PATH?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="\\bi.autotorino.local\qvs\work\Modelli\Personale\Evolve_ExportBEV" xmi:id="_SavM7TNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="FILE_NAME_INFO_USER" prompt="FILE_NAME_INFO_USER?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="info_users.csv" xmi:id="_SavM7jNmEe2OV-A0dj71Tg"/>
+    <contextParameter comment="" name="SFTP_REMOVE_FILE_PROVVIGIONI" prompt="SFTP_REMOVE_FILE_PROVVIGIONI?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="true" xmi:id="_SavM7zNmEe2OV-A0dj71Tg"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="dev" xmi:id="_CH9s7lZvEeyam4LwPh9ieA">
+    <contextParameter comment="" name="RETENTION_BACKUP_FILE" prompt="RETENTION_BACKUP_FILE?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="3" xmi:id="_CH9s71ZvEeyam4LwPh9ieA"/>
+    <contextParameter comment="" name="ORACLE_CLOUD_Url" prompt="ORACLE_CLOUD_Url?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="jdbc:oracle:thin:@dwhautosvil_medium?TNS_ADMIN=E:\\Talend\\Talend-ConfConnections\\OracleCloud\\Wallet_autotorinodwh" xmi:id="_CH9s8FZvEeyam4LwPh9ieA"/>
+    <contextParameter comment="" name="ORACLE_CLOUD_Password" prompt="ORACLE_CLOUD_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:Cb2RabfZUINg3R2FD6JImrDPP9Wpq9zoigk/4BUd35r89WEslEfN3CVx" xmi:id="_CH9s8VZvEeyam4LwPh9ieA"/>
+    <contextParameter comment="" name="ORACLE_CLOUD_Username" prompt="ORACLE_CLOUD_Username?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="DI_DATA_CONFIG" xmi:id="_CH9s8lZvEeyam4LwPh9ieA"/>
+    <contextParameter comment="" name="TALEND_PATH_FILE_CSV" prompt="TALEND_PATH_FILE_CSV?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="E:/Talend/Talend-Output/DataSource/DWH_HR/StorageFisico/" xmi:id="_CH9s81ZvEeyam4LwPh9ieA"/>
+    <contextParameter comment="" name="DWH_AT_MAIL_NOTIFY" prompt="DWH_AT_MAIL_NOTIFY?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="true" xmi:id="_CH9s9FZvEeyam4LwPh9ieA"/>
+    <contextParameter comment="" name="DWH_AT_MAIL_SMTP_HOST" prompt="DWH_AT_MAIL_SMTP_HOST?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="smtp.autotorino.local" xmi:id="_CH9s9VZvEeyam4LwPh9ieA"/>
+    <contextParameter comment="" name="DWH_AT_MAIL_SMTP_PORT" prompt="DWH_AT_MAIL_SMTP_PORT?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="25" xmi:id="_CH9s9lZvEeyam4LwPh9ieA"/>
+    <contextParameter comment="" name="DWH_AT_MAIL_SMTP_USER" prompt="DWH_AT_MAIL_SMTP_USER?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_CH9s91ZvEeyam4LwPh9ieA"/>
+    <contextParameter comment="" name="DWH_AT_MAIL_SMTP_PWD" prompt="DWH_AT_MAIL_SMTP_PWD?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="" xmi:id="_CH9s-FZvEeyam4LwPh9ieA"/>
+    <contextParameter comment="" name="DWH_AT_MAIL_SMTP_DEST" prompt="DWH_AT_MAIL_SMTP_DEST?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="dwh_talend@autotorino.it;giovanni.pilutza@eng.it" xmi:id="_CH9s-VZvEeyam4LwPh9ieA"/>
+    <contextParameter comment="" name="TALEND_PATH_FILE_INPUT" prompt="TALEND_PATH_FILE_INPUT?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="E:/Talend/Talend-Input/DWH_HR/" xmi:id="_CH9s-lZvEeyam4LwPh9ieA"/>
+    <contextParameter comment="" name="RESERVATION_PROCESS_ID" prompt="RESERVATION_PROCESS_ID?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_CH9s-1ZvEeyam4LwPh9ieA"/>
+    <contextParameter comment="" name="TALEND_PATH_LOG" prompt="TALEND_PATH_LOG?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="E:\\Talend\\RemoteEngine\\TalendJobServersFiles\\repository\\Talend-Output\\Log\\DWH_HR" xmi:id="_CH9s_FZvEeyam4LwPh9ieA"/>
+    <contextParameter comment="" name="SFTP_HOST" prompt="SFTP_HOST?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="ftps.autotorino.it" xmi:id="_CH9s_VZvEeyam4LwPh9ieA"/>
+    <contextParameter comment="" name="SFTP_PORT" prompt="SFTP_PORT?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="22" xmi:id="_CH9s_lZvEeyam4LwPh9ieA"/>
+    <contextParameter comment="" name="SFTP_USER" prompt="SFTP_USER?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="engineering" xmi:id="_CH9s_1ZvEeyam4LwPh9ieA"/>
+    <contextParameter comment="" name="SFTP_PASSWORD" prompt="SFTP_PASSWORD?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:2vSopifOoyQvHzLEDuGOWd2hB9sH0tGv3Y9e/ga+mMafodLLc9w=" xmi:id="_CH9tAFZvEeyam4LwPh9ieA"/>
+    <contextParameter comment="" name="SFTP_PATH" prompt="SFTP_PATH?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="/engineering/importstatini/" xmi:id="_CH9tAVZvEeyam4LwPh9ieA"/>
+    <contextParameter comment="" name="SFTP_FILE_NAME_PROVVIGIONI" prompt="SFTP_FILE_NAME_PROVVIGIONI?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Provvigioni.csv" xmi:id="_CH9tAlZvEeyam4LwPh9ieA"/>
+    <contextParameter comment="" name="HR_DATABASE_HOST" prompt="HR_DATABASE_HOST?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="srvpaghe" xmi:id="_CH9tA1ZvEeyam4LwPh9ieA"/>
+    <contextParameter comment="" name="HR_DATABASE_PORT" prompt="HR_DATABASE_PORT?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="1433" xmi:id="_CH9tBFZvEeyam4LwPh9ieA"/>
+    <contextParameter comment="" name="HR_DATABASE_USER" prompt="HR_DATABASE_USER?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="read" xmi:id="_CH9tBVZvEeyam4LwPh9ieA"/>
+    <contextParameter comment="" name="HR_DATABASE_PWD" prompt="HR_DATABASE_PWD?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:1o67094GsDRJkqJ5LMPtS0oT7SYg5gtjsW4h/kyYrcfBDtdybuks2G0=" xmi:id="_CH9tBlZvEeyam4LwPh9ieA"/>
+    <contextParameter comment="" name="HR_DATABASE_SCHEMA" prompt="HR_DATABASE_SCHEMA?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="ebc" xmi:id="_CH9tB1ZvEeyam4LwPh9ieA"/>
+    <contextParameter comment="" name="HR_DATABASE_DATABASE" prompt="HR_DATABASE_DATABASE?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="EBC" xmi:id="_CH9tCFZvEeyam4LwPh9ieA"/>
+    <contextParameter comment="" name="HR_EVOLVE_FILE_NAME_PREFIX" prompt="HR_EVOLVE_FILE_NAME_PREFIX?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Evolve_HR_" xmi:id="_CH9tCVZvEeyam4LwPh9ieA"/>
+    <contextParameter comment="" name="HR_EVOLVE_FILE_PWD" prompt="HR_EVOLVE_FILE_PWD?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:VHk2x7b37wiJdcnj8xJOT1JlgYPKTxn6dWP01+hUjNCo4I0bJE4=" xmi:id="_CH9tClZvEeyam4LwPh9ieA"/>
+    <contextParameter comment="" name="HR_EVOLVE_FILE_PATH" prompt="HR_EVOLVE_FILE_PATH?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="\\bi.autotorino.local\qvs\work\Modelli\Personale\Evolve_ExportBEV" xmi:id="_CH9tC1ZvEeyam4LwPh9ieA"/>
+    <contextParameter comment="" name="FILE_NAME_INFO_USER" prompt="FILE_NAME_INFO_USER?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="info_users.csv" xmi:id="_qEtgcVZ0Eeyam4LwPh9ieA"/>
+    <contextParameter comment="" name="SFTP_REMOVE_FILE_PROVVIGIONI" prompt="SFTP_REMOVE_FILE_PROVVIGIONI?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="false" xmi:id="_R0UF4DNmEe2OV-A0dj71Tg"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_09e14c73-7db6-4c5a-9fe7-7b874193b5ce"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>RlNzkGhGl5dId2GOqj0rxmdWy9SlAjBL4XInXmG5+pr4roSw3W0sFN6FCfoV7MQwb9m/rqnF0Aeo&#13;
+57QvKZXHjw==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_e4ca6c5b-ca51-4499-83d9-36382af5d839"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>nbHkjEk6bbg/sr9Ux+kQbYppquKV3/AOP8ZEerp8UxG08gfNOtttt8puhqbbZBMdJXuouVaa7ejn&#13;
+Hoo/dMnRRg==</DigestValue></Reference></SignedInfo><SignatureValue>KIJVa6EQhZt0Ss0jbRACmUX/B+ZAiN/cvmHEezk4r9mO/26mc7mq70ilUTr7tfn4aafcC4jDshb5&#13;
+Ip9GcQFaLeYdW0c1QzRn4sAX+eh8cj9xyYmoQJ3xaSpA/0JKl+YIrZuXOkzXmehlqt2rDraNJimL&#13;
+kB/v0m/NX4C7qqvo2zsQ3yzU8kqWCo295Ms+duzga4/m5lVGt5/SWoTgI0F0K1LJ3a6gSRKTUk5j&#13;
+pZG96BEgJfh4zvkub0BjwzjYOfyAe5QPsQnVjmnKIply7zmoYEU7OGWJMNDOE4C+MJjqmUvhsyrL&#13;
+yF8eIs49EfFFtkhiEf8DlBi/Sq3UJUQ2r4MjQA==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh&#13;
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB&#13;
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2&#13;
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl&#13;
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx&#13;
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B&#13;
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ&#13;
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF&#13;
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG&#13;
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM&#13;
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA&#13;
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw&#13;
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/&#13;
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG&#13;
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13;
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_e4ca6c5b-ca51-4499-83d9-36382af5d839" Target="#_09e14c73-7db6-4c5a-9fe7-7b874193b5ce"><Timestamp>2022-09-13 14:15:16</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
