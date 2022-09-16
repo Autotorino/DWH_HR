@@ -1,7 +1,47 @@
 {
   "itemId" : "_e28hoFK9Eey_qLfL6C5vTQ",
   "contextList" : [ {
-    "contextName" : "SVIL",
+    "contextName" : "prod",
+    "repoId" : "_McuX8KloEemvdbMxCJroiw",
+    "parameterList" : [ {
+      "id" : "_EHEn7jXZEe2kas6qzETz_g",
+      "name" : "ORACLE_CLOUD_Url"
+    }, {
+      "id" : "_EHEn7zXZEe2kas6qzETz_g",
+      "name" : "ORACLE_CLOUD_Password"
+    }, {
+      "id" : "_EHEn8DXZEe2kas6qzETz_g",
+      "name" : "ORACLE_CLOUD_Username"
+    }, {
+      "id" : "_EHEn8TXZEe2kas6qzETz_g",
+      "name" : "TALEND_PATH_FILE_CSV"
+    }, {
+      "id" : "_EHEn8jXZEe2kas6qzETz_g",
+      "name" : "DWH_AT_MAIL_NOTIFY"
+    }, {
+      "id" : "_EHEn8zXZEe2kas6qzETz_g",
+      "name" : "DWH_AT_MAIL_SMTP_HOST"
+    }, {
+      "id" : "_EHEn9DXZEe2kas6qzETz_g",
+      "name" : "DWH_AT_MAIL_SMTP_PORT"
+    }, {
+      "id" : "_EHEn9TXZEe2kas6qzETz_g",
+      "name" : "DWH_AT_MAIL_SMTP_USER"
+    }, {
+      "id" : "_EHEn9jXZEe2kas6qzETz_g",
+      "name" : "DWH_AT_MAIL_SMTP_PWD"
+    }, {
+      "id" : "_EHEn9zXZEe2kas6qzETz_g",
+      "name" : "DWH_AT_MAIL_SMTP_DEST"
+    }, {
+      "id" : "_EHEn-DXZEe2kas6qzETz_g",
+      "name" : "RESERVATION_PROCESS_ID"
+    }, {
+      "id" : "_EHEn-TXZEe2kas6qzETz_g",
+      "name" : "TALEND_PATH_LOG"
+    } ]
+  }, {
+    "contextName" : "dev",
     "repoId" : "_McuX8KloEemvdbMxCJroiw",
     "parameterList" : [ {
       "id" : "_8svBHiaIEeyzD4_5cqtbJQ",
@@ -38,47 +78,47 @@
       "name" : "RESERVATION_PROCESS_ID"
     }, {
       "id" : "_8svBKSaIEeyzD4_5cqtbJQ",
-      "name" : "TALEND_PATH_BUILD"
+      "name" : "TALEND_PATH_LOG"
     } ]
   }, {
-    "contextName" : "PROD",
+    "contextName" : "Default",
     "repoId" : "_McuX8KloEemvdbMxCJroiw",
     "parameterList" : [ {
-      "id" : "_8svBESaIEeyzD4_5cqtbJQ",
+      "id" : "_EHEn4TXZEe2kas6qzETz_g",
       "name" : "ORACLE_CLOUD_Url"
     }, {
-      "id" : "_8svBEiaIEeyzD4_5cqtbJQ",
+      "id" : "_EHEn4jXZEe2kas6qzETz_g",
       "name" : "ORACLE_CLOUD_Password"
     }, {
-      "id" : "_8svBEyaIEeyzD4_5cqtbJQ",
+      "id" : "_EHEn4zXZEe2kas6qzETz_g",
       "name" : "ORACLE_CLOUD_Username"
     }, {
-      "id" : "_8svBFCaIEeyzD4_5cqtbJQ",
+      "id" : "_EHEn5DXZEe2kas6qzETz_g",
       "name" : "TALEND_PATH_FILE_CSV"
     }, {
-      "id" : "_8svBFSaIEeyzD4_5cqtbJQ",
+      "id" : "_EHEn5TXZEe2kas6qzETz_g",
       "name" : "DWH_AT_MAIL_NOTIFY"
     }, {
-      "id" : "_8svBFiaIEeyzD4_5cqtbJQ",
+      "id" : "_EHEn5jXZEe2kas6qzETz_g",
       "name" : "DWH_AT_MAIL_SMTP_HOST"
     }, {
-      "id" : "_8svBFyaIEeyzD4_5cqtbJQ",
+      "id" : "_EHEn5zXZEe2kas6qzETz_g",
       "name" : "DWH_AT_MAIL_SMTP_PORT"
     }, {
-      "id" : "_8svBGCaIEeyzD4_5cqtbJQ",
+      "id" : "_EHEn6DXZEe2kas6qzETz_g",
       "name" : "DWH_AT_MAIL_SMTP_USER"
     }, {
-      "id" : "_8svBGSaIEeyzD4_5cqtbJQ",
+      "id" : "_EHEn6TXZEe2kas6qzETz_g",
       "name" : "DWH_AT_MAIL_SMTP_PWD"
     }, {
-      "id" : "_8svBGiaIEeyzD4_5cqtbJQ",
+      "id" : "_EHEn6jXZEe2kas6qzETz_g",
       "name" : "DWH_AT_MAIL_SMTP_DEST"
     }, {
-      "id" : "_8svBGyaIEeyzD4_5cqtbJQ",
+      "id" : "_EHEn6zXZEe2kas6qzETz_g",
       "name" : "RESERVATION_PROCESS_ID"
     }, {
-      "id" : "_8svBHCaIEeyzD4_5cqtbJQ",
-      "name" : "TALEND_PATH_BUILD"
+      "id" : "_EHEn7DXZEe2kas6qzETz_g",
+      "name" : "TALEND_PATH_LOG"
     } ]
   } ]
 }

@@ -9,10 +9,6 @@
     "version" : "Latest",
     "type" : "context"
   }, {
-    "id" : "UploadObjectonStorage",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
     "id" : "UtilCommonProcessFlow",
     "version" : "Latest",
     "type" : "routine"
@@ -40,10 +36,6 @@
     "version" : "Latest",
     "type" : "context"
   }, {
-    "id" : "UploadObjectonStorage",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
     "id" : "UtilCommonProcessFlow",
     "version" : "Latest",
     "type" : "routine"
@@ -70,10 +62,6 @@
     "id" : "_McuX8KloEemvdbMxCJroiw",
     "version" : "Latest",
     "type" : "context"
-  }, {
-    "id" : "UploadObjectonStorage",
-    "version" : "Latest",
-    "type" : "routine"
   }, {
     "id" : "UtilCommonProcessFlow",
     "version" : "Latest",
@@ -140,10 +128,6 @@
     "id" : "_McuX8KloEemvdbMxCJroiw",
     "version" : "Latest",
     "type" : "context"
-  }, {
-    "id" : "UploadObjectonStorage",
-    "version" : "Latest",
-    "type" : "routine"
   }, {
     "id" : "UtilCommonProcessFlow",
     "version" : "Latest",
