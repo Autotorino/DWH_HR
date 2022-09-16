@@ -1,0 +1,84 @@
+{
+  "itemId" : "_AcolwKFVEeyd7fjW_0d_Fw",
+  "contextList" : [ {
+    "contextName" : "SVIL",
+    "repoId" : "_McuX8KloEemvdbMxCJroiw",
+    "parameterList" : [ {
+      "id" : "_8svBHiaIEeyzD4_5cqtbJQ",
+      "name" : "ORACLE_CLOUD_Url"
+    }, {
+      "id" : "_8svBHyaIEeyzD4_5cqtbJQ",
+      "name" : "ORACLE_CLOUD_Password"
+    }, {
+      "id" : "_8svBICaIEeyzD4_5cqtbJQ",
+      "name" : "ORACLE_CLOUD_Username"
+    }, {
+      "id" : "_8svBISaIEeyzD4_5cqtbJQ",
+      "name" : "TALEND_PATH_FILE_CSV"
+    }, {
+      "id" : "_8svBIiaIEeyzD4_5cqtbJQ",
+      "name" : "DWH_AT_MAIL_NOTIFY"
+    }, {
+      "id" : "_8svBIyaIEeyzD4_5cqtbJQ",
+      "name" : "DWH_AT_MAIL_SMTP_HOST"
+    }, {
+      "id" : "_8svBJCaIEeyzD4_5cqtbJQ",
+      "name" : "DWH_AT_MAIL_SMTP_PORT"
+    }, {
+      "id" : "_8svBJSaIEeyzD4_5cqtbJQ",
+      "name" : "DWH_AT_MAIL_SMTP_USER"
+    }, {
+      "id" : "_8svBJiaIEeyzD4_5cqtbJQ",
+      "name" : "DWH_AT_MAIL_SMTP_PWD"
+    }, {
+      "id" : "_8svBJyaIEeyzD4_5cqtbJQ",
+      "name" : "DWH_AT_MAIL_SMTP_DEST"
+    }, {
+      "id" : "_8svBKCaIEeyzD4_5cqtbJQ",
+      "name" : "RESERVATION_PROCESS_ID"
+    }, {
+      "id" : "_8svBKSaIEeyzD4_5cqtbJQ",
+      "name" : "TALEND_PATH_BUILD"
+    } ]
+  }, {
+    "contextName" : "PROD",
+    "repoId" : "_McuX8KloEemvdbMxCJroiw",
+    "parameterList" : [ {
+      "id" : "_8svBESaIEeyzD4_5cqtbJQ",
+      "name" : "ORACLE_CLOUD_Url"
+    }, {
+      "id" : "_8svBEiaIEeyzD4_5cqtbJQ",
+      "name" : "ORACLE_CLOUD_Password"
+    }, {
+      "id" : "_8svBEyaIEeyzD4_5cqtbJQ",
+      "name" : "ORACLE_CLOUD_Username"
+    }, {
+      "id" : "_8svBFCaIEeyzD4_5cqtbJQ",
+      "name" : "TALEND_PATH_FILE_CSV"
+    }, {
+      "id" : "_8svBFSaIEeyzD4_5cqtbJQ",
+      "name" : "DWH_AT_MAIL_NOTIFY"
+    }, {
+      "id" : "_8svBFiaIEeyzD4_5cqtbJQ",
+      "name" : "DWH_AT_MAIL_SMTP_HOST"
+    }, {
+      "id" : "_8svBFyaIEeyzD4_5cqtbJQ",
+      "name" : "DWH_AT_MAIL_SMTP_PORT"
+    }, {
+      "id" : "_8svBGCaIEeyzD4_5cqtbJQ",
+      "name" : "DWH_AT_MAIL_SMTP_USER"
+    }, {
+      "id" : "_8svBGSaIEeyzD4_5cqtbJQ",
+      "name" : "DWH_AT_MAIL_SMTP_PWD"
+    }, {
+      "id" : "_8svBGiaIEeyzD4_5cqtbJQ",
+      "name" : "DWH_AT_MAIL_SMTP_DEST"
+    }, {
+      "id" : "_8svBGyaIEeyzD4_5cqtbJQ",
+      "name" : "RESERVATION_PROCESS_ID"
+    }, {
+      "id" : "_8svBHCaIEeyzD4_5cqtbJQ",
+      "name" : "TALEND_PATH_BUILD"
+    } ]
+  } ]
+}
