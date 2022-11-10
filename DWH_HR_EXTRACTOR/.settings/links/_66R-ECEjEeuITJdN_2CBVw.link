@@ -96,6 +96,27 @@
     }, {
       "id" : "_SavM7zNmEe2OV-A0dj71Tg",
       "name" : "SFTP_REMOVE_FILE_PROVVIGIONI"
+    }, {
+      "id" : "_d5DNRk34Ee2sto8u-IYJpg",
+      "name" : "SIPADX_DB_Server"
+    }, {
+      "id" : "_d5DNR034Ee2sto8u-IYJpg",
+      "name" : "SIPADX_DB_Port"
+    }, {
+      "id" : "_d5DNSE34Ee2sto8u-IYJpg",
+      "name" : "SIPADX_DB_Database"
+    }, {
+      "id" : "_d5DNSU34Ee2sto8u-IYJpg",
+      "name" : "SIPADX_DB_Login"
+    }, {
+      "id" : "_d5DNSk34Ee2sto8u-IYJpg",
+      "name" : "SIPADX_DB_Password"
+    }, {
+      "id" : "_d5DNS034Ee2sto8u-IYJpg",
+      "name" : "SIPADX_DB_Schema"
+    }, {
+      "id" : "_6aQNEGD1Ee2y1MY5RfhPbQ",
+      "name" : "resource_webhook_payload"
     } ]
   }, {
     "contextName" : "dev",
@@ -193,6 +214,27 @@
     }, {
       "id" : "_R0UF4DNmEe2OV-A0dj71Tg",
       "name" : "SFTP_REMOVE_FILE_PROVVIGIONI"
+    }, {
+      "id" : "_d5DNTE34Ee2sto8u-IYJpg",
+      "name" : "SIPADX_DB_Server"
+    }, {
+      "id" : "_d5DNTU34Ee2sto8u-IYJpg",
+      "name" : "SIPADX_DB_Port"
+    }, {
+      "id" : "_d5DNTk34Ee2sto8u-IYJpg",
+      "name" : "SIPADX_DB_Database"
+    }, {
+      "id" : "_d5DNT034Ee2sto8u-IYJpg",
+      "name" : "SIPADX_DB_Login"
+    }, {
+      "id" : "_d5DNUE34Ee2sto8u-IYJpg",
+      "name" : "SIPADX_DB_Password"
+    }, {
+      "id" : "_d5DNUU34Ee2sto8u-IYJpg",
+      "name" : "SIPADX_DB_Schema"
+    }, {
+      "id" : "_6aQ0IGD1Ee2y1MY5RfhPbQ",
+      "name" : "resource_webhook_payload"
     } ]
   }, {
     "contextName" : "Default",
@@ -290,6 +332,27 @@
     }, {
       "id" : "_SavMzzNmEe2OV-A0dj71Tg",
       "name" : "SFTP_REMOVE_FILE_PROVVIGIONI"
+    }, {
+      "id" : "_d5DNQE34Ee2sto8u-IYJpg",
+      "name" : "SIPADX_DB_Server"
+    }, {
+      "id" : "_d5DNQU34Ee2sto8u-IYJpg",
+      "name" : "SIPADX_DB_Port"
+    }, {
+      "id" : "_d5DNQk34Ee2sto8u-IYJpg",
+      "name" : "SIPADX_DB_Database"
+    }, {
+      "id" : "_d5DNQ034Ee2sto8u-IYJpg",
+      "name" : "SIPADX_DB_Login"
+    }, {
+      "id" : "_d5DNRE34Ee2sto8u-IYJpg",
+      "name" : "SIPADX_DB_Password"
+    }, {
+      "id" : "_d5DNRU34Ee2sto8u-IYJpg",
+      "name" : "SIPADX_DB_Schema"
+    }, {
+      "id" : "_6aPmAGD1Ee2y1MY5RfhPbQ",
+      "name" : "resource_webhook_payload"
     } ]
   } ]
 }
